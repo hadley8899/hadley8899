@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hadley8899
 - 👀 I’m interested in web application development
-- 🌱 I’m currently learning React (Kind of)
-- 💞️ I’m looking to collaborate on anything PHP/Angular related
+- 💞️ I’m looking to collaborate on anything PHP/Angular/React related
 - 📫 How to reach me my user plus @gmail.com
 
 <!---
